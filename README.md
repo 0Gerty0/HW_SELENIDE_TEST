@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/0Gerty0/HW_SELENIDE_TEST/actions/workflows/ci.yml/badge.svg)](https://github.com/0Gerty0/HW_SELENIDE_TEST/actions/workflows/ci.yml)
